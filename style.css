@@ -107,6 +107,13 @@ span > a {
     padding: 15px;
 }
 
+div > a {
+    text-decoration: none;
+}
+div > a:hover {
+  text-decoration: underline;
+}
+
 span > a:hover {
     text-decoration: underline;
 }
